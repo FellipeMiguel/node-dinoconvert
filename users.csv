@@ -1,4 +1,13 @@
-Nome,Curso,Categoria,Tipo
-Fellipe Miguel,Formação Node.js,Node.js,1
-Ester Pereira,Faculdade de Psicologia,Psicologia,2
-Loki,Caça ratos,Caça,3
+Nome,Curso,Categoria,Tipo,id
+Fellipe Miguel,Formação Node.js,Node.js,1,1
+Ester Pereira,Faculdade de Psicologia,Psicologia,2,2
+Loki,Caça ratos,Caça,3,2
+Fellipe Miguel,Formação Node.js,Node.js,1,4
+Ester Pereira,Faculdade de Psicologia,Psicologia,2,5
+Loki,Caça ratos,Caça,3,6
+Fellipe Miguel,Formação Node.js,Node.js,1,7
+Ester Pereira,Faculdade de Psicologia,Psicologia,2,8
+Loki,Caça ratos,Caça,3,9
+Fellipe Miguel,Formação Node.js,Node.js,1,10
+Ester Pereira,Faculdade de Psicologia,Psicologia,2,11
+Loki,Caça ratos,Caça,3,12
